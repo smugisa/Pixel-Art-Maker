@@ -19,4 +19,4 @@ Or run it locally:
 * Defined variables with `const` and `let`
 * Accessing the DOM through methods of the `document` object
 * Declaring functions and attaching them to DOM objects event listeners
-* Writing nested loops and use loop variables
+* Writing nested loops and using loop variables
